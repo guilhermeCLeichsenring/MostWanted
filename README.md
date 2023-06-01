@@ -2,7 +2,8 @@
 
 Definições Funcionais
 
--Requisitos não funcionais
+-Requisitos não funcionais:
+
 #Desempenho e escalabilidade: o sistema deve lidar com uma grande demanda de usuários e de dados simultâneos. Sempre deve ser escalável para a implementação de possíveis novos recursos;
 
 #Disponibilidade: o sistema sempre deve estar disponível 24 horas para garantir o acesso das informações;
@@ -20,6 +21,7 @@ Definições Funcionais
 
 
 -Requisitos funcionais:
+
 #Pesquisa e consulta de pessoas procuradas: os usuários são capazes de realizarem consultas com base em: recompensa, nome, nacionalidade ou pela agência procurada (FBI e Interpol);
 
 #Sincronização de dados em tempo real: o sistema é capaz de sincronizar dados com outros sistemas de banco de dados em tempo real.
